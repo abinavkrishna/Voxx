@@ -13,9 +13,9 @@ A multi-threaded architecture is used, in which the main applicaiton spawns vari
 the inter-thread synchronization is done through synchronization primitives provided by python.
 
 Organization:
-AIY-projects-python->src->examples->voice->Voxx.py => Main application
-AIY-projects-python->src->examples->voice->sensor_controller.py => Sensor controller
-AIY-projects-python->src->examples->voice->voice_controller.py => Voice assistant
-AIY-projects-python->src->examples->voice->lighting_controller.py => Lighting controller
-AIY-projects-python->src->aiy->assistant->grpc.py => Speech-to-text
-AIY-projects-python->src->aiy->voice->tts.py => Text-to-Speech
+AIY-projects-python->src->examples->voice->Voxx.py => Main application <\br>
+AIY-projects-python->src->examples->voice->sensor_controller.py => Sensor controller <\br>
+AIY-projects-python->src->examples->voice->voice_controller.py => Voice assistant <\br>
+AIY-projects-python->src->examples->voice->lighting_controller.py => Lighting controller <\br>
+AIY-projects-python->src->aiy->assistant->grpc.py => Speech-to-text <\br>
+AIY-projects-python->src->aiy->voice->tts.py => Text-to-Speech <\br>
